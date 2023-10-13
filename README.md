@@ -1,4 +1,4 @@
-# political-juggernauts-a-quantitative-analysis-of-loksabha-2019-elections
+# Political Juggernauts
 
 Dashboard - https://public.tableau.com/views/PoliticalJuggernauts/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
